@@ -19,7 +19,6 @@ namespace NotePad.ViewModels
         }
         public void Ctrl_Z_Mehtod()
         {
-
         }
     }
 }
